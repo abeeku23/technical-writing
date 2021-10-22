@@ -51,5 +51,5 @@ Transformations can be used across your Event Stream, Warehouse Actions and Clou
 
 
 
-###Teammates
+### Teammates
 RudderStack's Teammates feature enables you to add and manage other users in your current RudderStack workspace. It facilitates easier collaboration between you and other team members of your organization in using RudderStack effectively.
